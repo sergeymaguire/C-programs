@@ -10,6 +10,7 @@ namespace ch3and4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
